@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\101010-Base2\StudioProjects\TestBox\app\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e98a6d8f61abcfe5accb9314f72de377e339249f">
+        <dex dex="D:\101010-Base2\StudioProjects\TestBox\app\build\intermediates\pre-dexed\debug\unity-classes-bc624503efc58dbc0cb252a46884dbc68debca3e.jar" />
+    </item>
+
+</items>
